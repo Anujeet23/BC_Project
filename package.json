@@ -29,7 +29,7 @@
     "@types/chai": "^4.2.0",
     "@types/mocha": "^10.0.8",
     "chai": "^4.2.0",
-    "ethers": "^6.1.0",
+    "ethers": "^6.13.4",
     "hardhat-gas-reporter": "^1.0.8",
     "postcss": "^8",
     "solidity-coverage": "^0.8.1",

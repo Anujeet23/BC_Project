@@ -5,7 +5,7 @@ import { ethers } from "ethers";
 //Internal Import
 import tracking from "../Context/Tracking.json";
 
-const ContractAddress = "0x5FbDB2315678afecb367f032d93F642f64180aa3";
+const ContractAddress = "0x5Cc7f27154334eE24c3eCE5253890209Af50cEF7";
 const ContractABI = tracking.abi;
 
 // Fetch smart contract
